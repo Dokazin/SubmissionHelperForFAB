@@ -1,0 +1,36 @@
+# Suggested mkdocs.yml navigation
+
+site_name: Fab Submission Helper
+site_description: Documentation for the Fab Submission Helper Unreal Engine plugin.
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: lime
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Getting Started: getting-started.md
+      - Installation: installation.md
+      - First Startup: first-startup.md
+      - Interface Overview: interface-overview.md
+  - Usage:
+      - Submission Types: submission-types.md
+      - Running Validation: running-validation.md
+      - Results: results.md
+  - Reference:
+      - Validation Rules: validation-rules.md
+      - Common Errors: common-errors.md
+      - Troubleshooting: troubleshooting.md
+      - FAQ: faq.md
+      - Changelog: changelog.md
