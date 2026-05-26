@@ -11,7 +11,7 @@ YourProject/Plugins/FabSubmissionHelper/
 
 3. Open the project in Unreal Editor.
 4. Go to **Edit > Plugins**.
-5. Search for **Fab Submission Helper** or **Fab Helper**.
+5. Search for **Submission Helper for FAB** or **Fab Helper**.
 6. Enable the plugin.
 7. Restart Unreal Editor if prompted.
 

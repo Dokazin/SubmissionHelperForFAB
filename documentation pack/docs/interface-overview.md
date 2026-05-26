@@ -1,6 +1,6 @@
 # Interface Overview
 
-Fab Submission Helper is organized into several pages.
+Submission Helper for FAB is organized into several pages.
 
 ## Overview
 

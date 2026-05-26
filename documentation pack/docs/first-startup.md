@@ -34,7 +34,7 @@ Submission Type and Validation Target are different:
 
 ## Do not validate the wrong target
 
-If Fab Submission Helper is installed in a project that also contains a seller plugin, make sure the seller plugin is selected as the target.
+If Submission Helper for FAB is installed in a project that also contains a seller plugin, make sure the seller plugin is selected as the target.
 
 The helper plugin may appear in the target list because it is also a project plugin, but it should not be selected unless you intentionally want to test the helper itself.
 

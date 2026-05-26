@@ -1,6 +1,6 @@
 # Validation Rules
 
-This page summarizes the main rule groups used by Fab Submission Helper.
+This page summarizes the main rule groups used by Submission Helper for FAB.
 
 The exact results can depend on the selected submission type, target, product category, and project structure.
 

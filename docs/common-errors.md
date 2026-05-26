@@ -4,9 +4,9 @@
 
 Open **Settings** and check **Validation Target**.
 
-For a seller code plugin, select the seller plugin target, not Fab Submission Helper.
+For a seller code plugin, select the seller plugin target, not Submission Helper for FAB.
 
-If the project only contains Fab Submission Helper, the helper may be the only available plugin target.
+If the project only contains Submission Helper for FAB, the helper may be the only available plugin target.
 
 ## My target dropdown has confusing entries
 

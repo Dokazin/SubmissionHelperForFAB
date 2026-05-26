@@ -1,6 +1,6 @@
 # Interface Overview
 
-Fab Submission Helper is organized into several pages.
+Submission Helper for FAB is organized into several pages.
 
 Use **Settings** first, then **Validation**, then **Auto Fix** or **Build / Package** only when those pages apply to the selected target.
 

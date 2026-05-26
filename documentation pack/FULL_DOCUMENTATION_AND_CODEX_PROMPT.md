@@ -1,11 +1,11 @@
-# Fab Submission Helper Documentation Pack
+# Submission Helper for FAB Documentation Pack
 
 This file contains the Codex prompt, suggested MkDocs navigation, and all documentation page contents.
 
 ## Codex Prompt
 
 ```text
-You are editing the MkDocs documentation site for the Fab Submission Helper Unreal Engine plugin.
+You are editing the MkDocs documentation site for the Submission Helper for FAB Unreal Engine plugin.
 
 Goal:
 Add a complete, organized English documentation set explaining installation, first startup, target selection, submission types, validation workflow, results, validation rules, build/package workflow, common errors, troubleshooting, FAQ, and changelog.
@@ -16,8 +16,8 @@ Important:
 - Do not change UI code.
 - Only update MkDocs documentation files.
 - Keep the documentation clear for Fab sellers who may not be technical experts.
-- Use consistent product naming: "Fab Submission Helper".
-- If the current site title is "FAB Validation Plugin", keep the site title only if already configured, but use "Fab Submission Helper" as the plugin/tool name in the docs unless instructed otherwise.
+- Use consistent product naming: "Submission Helper for FAB".
+- If the current site title is "Submission Helper for FAB", keep the site title only if already configured, but use "Submission Helper for FAB" as the plugin/tool name in the docs unless instructed otherwise.
 - Preserve the current MkDocs Material dark visual style.
 - Do not add copyrighted content.
 - Use concise, practical, user-facing explanations.
@@ -113,8 +113,8 @@ After writing files:
 ```yaml
 # Suggested mkdocs.yml navigation
 
-site_name: Fab Submission Helper
-site_description: Documentation for the Fab Submission Helper Unreal Engine plugin.
+site_name: Submission Helper for FAB
+site_description: Documentation for the Submission Helper for FAB Unreal Engine plugin.
 theme:
   name: material
   palette:
@@ -186,9 +186,9 @@ Highlights:
 
 Open **Settings** and check **Validation Target**.
 
-For a seller code plugin, select the seller plugin target, not Fab Submission Helper.
+For a seller code plugin, select the seller plugin target, not Submission Helper for FAB.
 
-If the project only contains Fab Submission Helper, the helper may be the only available plugin target.
+If the project only contains Submission Helper for FAB, the helper may be the only available plugin target.
 
 ## My target dropdown has confusing entries
 
@@ -314,7 +314,7 @@ Yes. Select **Complete Project** and validate **Project Content / Game**.
 
 ## Why does the helper plugin appear as a target?
 
-Fab Submission Helper is itself a project plugin when installed in the project Plugins folder.
+Submission Helper for FAB is itself a project plugin when installed in the project Plugins folder.
 
 It may appear as a target for development or testing. Select it only if you intentionally want to validate the helper plugin itself.
 
@@ -392,7 +392,7 @@ Submission Type and Validation Target are different:
 
 ## Do not validate the wrong target
 
-If Fab Submission Helper is installed in a project that also contains a seller plugin, make sure the seller plugin is selected as the target.
+If Submission Helper for FAB is installed in a project that also contains a seller plugin, make sure the seller plugin is selected as the target.
 
 The helper plugin may appear in the target list because it is also a project plugin, but it should not be selected unless you intentionally want to test the helper itself.
 
@@ -408,7 +408,7 @@ Settings are stored so the plugin can restore them next time. If a previously se
 ```markdown
 # Getting Started
 
-This guide explains the normal workflow for using Fab Submission Helper inside Unreal Editor.
+This guide explains the normal workflow for using Submission Helper for FAB inside Unreal Editor.
 
 ## Quick start
 
@@ -456,7 +456,7 @@ Use this order for the cleanest workflow:
 
 ## Result types
 
-Fab Submission Helper uses several result types:
+Submission Helper for FAB uses several result types:
 
 | Type | Meaning |
 |---|---|
@@ -485,11 +485,11 @@ Use source control or a backup before applying fixes to important projects.
 ## File: `docs/index.md`
 
 ```markdown
-# Fab Submission Helper
+# Submission Helper for FAB
 
 ## Unreal Engine Fab submission readiness
 
-Fab Submission Helper is a pre-submission validation assistant for Unreal Engine projects, plugins, asset packs, and complete projects before Fab review.
+Submission Helper for FAB is a pre-submission validation assistant for Unreal Engine projects, plugins, asset packs, and complete projects before Fab review.
 
 It helps sellers catch common packaging and review blockers before submitting a product.
 
@@ -502,7 +502,7 @@ It helps sellers catch common packaging and review blockers before submitting a 
 
 ## What it helps you catch
 
-Fab Submission Helper checks the selected validation target for common issues such as:
+Submission Helper for FAB checks the selected validation target for common issues such as:
 
 - Project and plugin structure problems
 - Missing or incomplete plugin metadata
@@ -537,7 +537,7 @@ The plugin is designed to guide sellers through a clean pre-submission workflow 
 
 ## Important note
 
-Fab Submission Helper is a preparation tool. It helps you find likely issues before submission, but it does not guarantee approval. Always review the official Fab documentation and your final package before submitting.
+Submission Helper for FAB is a preparation tool. It helps you find likely issues before submission, but it does not guarantee approval. Always review the official Fab documentation and your final package before submitting.
 ```
 
 ---
@@ -558,7 +558,7 @@ YourProject/Plugins/FabSubmissionHelper/
 
 3. Open the project in Unreal Editor.
 4. Go to **Edit > Plugins**.
-5. Search for **Fab Submission Helper** or **Fab Helper**.
+5. Search for **Submission Helper for FAB** or **Fab Helper**.
 6. Enable the plugin.
 7. Restart Unreal Editor if prompted.
 
@@ -593,7 +593,7 @@ Long Windows paths can break packaging when output folders become too deep. Use 
 ```markdown
 # Interface Overview
 
-Fab Submission Helper is organized into several pages.
+Submission Helper for FAB is organized into several pages.
 
 ## Overview
 
@@ -808,7 +808,7 @@ When you complete one of these tasks, mark it as reviewed in the plugin.
 ## File: `docs/stylesheets/extra.css`
 
 ```css
-/* Optional MkDocs polish for the Fab Submission Helper documentation. */
+/* Optional MkDocs polish for the Submission Helper for FAB documentation. */
 
 :root {
   --fab-accent: #2dd4bf;
@@ -845,7 +845,7 @@ When you complete one of these tasks, mark it as reviewed in the plugin.
 ```markdown
 # Submission Types
 
-Fab Submission Helper supports several submission workflows.
+Submission Helper for FAB supports several submission workflows.
 
 ## Code Plugin
 
@@ -1023,7 +1023,7 @@ Try:
 ```markdown
 # Validation Rules
 
-This page summarizes the main rule groups used by Fab Submission Helper.
+This page summarizes the main rule groups used by Submission Helper for FAB.
 
 The exact results can depend on the selected submission type, target, product category, and project structure.
 

@@ -1,7 +1,7 @@
 # Suggested mkdocs.yml navigation
 
-site_name: Fab Submission Helper
-site_description: Documentation for the Fab Submission Helper Unreal Engine plugin.
+site_name: Submission Helper for FAB
+site_description: Documentation for the Submission Helper for FAB Unreal Engine plugin.
 theme:
   name: material
   palette:

@@ -1,6 +1,6 @@
 # Submission Types
 
-Fab Submission Helper supports several submission workflows.
+Submission Helper for FAB supports several submission workflows.
 
 ## Code Plugin
 

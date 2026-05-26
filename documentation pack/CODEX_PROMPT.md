@@ -1,4 +1,4 @@
-You are editing the MkDocs documentation site for the Fab Submission Helper Unreal Engine plugin.
+You are editing the MkDocs documentation site for the Submission Helper for FAB Unreal Engine plugin.
 
 Goal:
 Add a complete, organized English documentation set explaining installation, first startup, target selection, submission types, validation workflow, results, validation rules, build/package workflow, common errors, troubleshooting, FAQ, and changelog.
@@ -9,8 +9,8 @@ Important:
 - Do not change UI code.
 - Only update MkDocs documentation files.
 - Keep the documentation clear for Fab sellers who may not be technical experts.
-- Use consistent product naming: "Fab Submission Helper".
-- If the current site title is "FAB Validation Plugin", keep the site title only if already configured, but use "Fab Submission Helper" as the plugin/tool name in the docs unless instructed otherwise.
+- Use consistent product naming: "Submission Helper for FAB".
+- If the current site title is "Submission Helper for FAB", keep the site title only if already configured, but use "Submission Helper for FAB" as the plugin/tool name in the docs unless instructed otherwise.
 - Preserve the current MkDocs Material dark visual style.
 - Do not add copyrighted content.
 - Use concise, practical, user-facing explanations.

@@ -1,8 +1,8 @@
-# Fab Submission Helper
+# Submission Helper for FAB
 
 ## Unreal Engine Fab review preparation
 
-Fab Submission Helper is a pre-submission validation assistant for Unreal Engine projects, plugins, asset packs, and complete projects before Fab review.
+Submission Helper for FAB is a pre-submission validation assistant for Unreal Engine projects, plugins, asset packs, and complete projects before Fab review.
 
 It helps sellers catch common packaging and review blockers before submitting a product.
 
@@ -17,7 +17,7 @@ It helps sellers catch common packaging and review blockers before submitting a 
 
 ## What it helps you catch
 
-Fab Submission Helper checks the selected validation target for common issues such as:
+Submission Helper for FAB checks the selected validation target for common issues such as:
 
 - Project and plugin structure problems
 - Missing or incomplete plugin metadata
@@ -52,4 +52,4 @@ The plugin is designed to guide sellers through a clean pre-submission workflow 
 
 ## Important note
 
-Fab Submission Helper is a preparation tool. It helps you find likely issues before submission, but it does not guarantee approval. Always review the official Fab documentation and your final package before submitting.
+Submission Helper for FAB is a preparation tool. It helps you find likely issues before submission, but it does not guarantee approval. Always review the official Fab documentation and your final package before submitting.

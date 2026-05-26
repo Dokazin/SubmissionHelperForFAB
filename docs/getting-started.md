@@ -1,6 +1,6 @@
 # Getting Started
 
-This guide explains the normal workflow for using Fab Submission Helper inside Unreal Editor.
+This guide explains the normal workflow for using Submission Helper for FAB inside Unreal Editor.
 
 ## Quick start
 
@@ -48,7 +48,7 @@ Use this order for the cleanest workflow:
 
 ## Result types
 
-Fab Submission Helper uses several result types:
+Submission Helper for FAB uses several result types:
 
 | Type | Meaning |
 |---|---|

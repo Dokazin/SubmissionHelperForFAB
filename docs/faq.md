@@ -18,7 +18,7 @@ Yes. Select **Complete Project** and validate **Project Content / Game**.
 
 ## Why does the helper plugin appear as a target?
 
-Fab Submission Helper is itself a project plugin when installed in the project Plugins folder.
+Submission Helper for FAB is itself a project plugin when installed in the project Plugins folder.
 
 It may appear as a target for development or testing. Select it only if you intentionally want to validate the helper plugin itself.
 

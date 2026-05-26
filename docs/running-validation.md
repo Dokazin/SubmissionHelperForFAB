@@ -63,7 +63,7 @@ Use **Build / Package** for Code Plugin submissions after the main validation pa
 Recommended packaging order:
 
 1. Confirm **Submission Type** is **Code Plugin**.
-2. Confirm **Validation Target** is the seller plugin, not Fab Submission Helper.
+2. Confirm **Validation Target** is the seller plugin, not Submission Helper for FAB.
 3. Fix validation errors related to plugin metadata, dependencies, generated folders, and source files.
 4. Close or disable Live Coding if Unreal blocks the build.
 5. Choose a short output folder.
